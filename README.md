@@ -1,5 +1,12 @@
 # Seam3
 
+## Why the Fork?
+> Note! This is a fork of the much more official [paulw11/Seam3](https://github.com/paulw11/Seam3). 
+For most cases, that project is probably better to be used.
+
+I created this fork because I am using Swift Package Manager as much as possible in my application, and the official Seam3 project does not have full SPM support.
+Because I already have a fork, I went a few steps farther and fixed specific issues that were bothering me. PRs are open in the "real" Seam3 project, but have not been merged yet.
+
 [![CI Status](http://img.shields.io/travis/paulw11/Seam3.svg?style=flat)](https://travis-ci.org/paulw11/Seam3)
 [![Version](https://img.shields.io/cocoapods/v/Seam3.svg?style=flat)](http://cocoapods.org/pods/Seam3)
 [![License](https://img.shields.io/cocoapods/l/Seam3.svg?style=flat)](http://cocoapods.org/pods/Seam3)
